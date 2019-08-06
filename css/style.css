@@ -1,0 +1,15 @@
+h1 {
+  color: white;
+  text-align: center;
+}
+
+#cover-photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 500px;
+}
+
+body {
+  background-color: #4caf50;
+}
